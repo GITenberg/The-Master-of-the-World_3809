@@ -1,0 +1,37 @@
+_repo: The-Master-of-the-World_3809
+_version: 0.0.1
+alternative_title: Maître du monde. English
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriel
+    - Verne, Jules Gabriël
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+description: Who is making the eerie noises? What could be causing the strange glow?
+  When Inspector John Strock begins his investigation, he discovers a trail that leads
+  to an evil genius, a man who wants to become master of the world!
+gutenberg_bookshelf: Movie Books
+gutenberg_issued: '2003-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3809'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Science fiction'
+- GITenberg
+title: The Master of the World
+url: http://www.gutenberg.org/ebooks/3809
