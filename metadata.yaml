@@ -1,6 +1,9 @@
 _repo: The-Master-of-the-World_3809
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Maître du monde. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -19,6 +22,8 @@ creator:
 description: Who is making the eerie noises? What could be causing the strange glow?
   When Inspector John Strock begins his investigation, he discovers a trail that leads
   to an evil genius, a man who wants to become master of the world!
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3809#The-Master-of-the-World
 gutenberg_bookshelf: Movie Books
 gutenberg_issued: '2003-03-01'
 gutenberg_type: Text
